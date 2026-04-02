@@ -13,3 +13,5 @@ This project addresses the critical gap by analyzing patient-level cancer data a
 # TIPS TIPS TIPS
 
 Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for regular medical check-ups significantly reduces your risk to Cancer Disease.
+
+# PROJECT OBJECTIVES
