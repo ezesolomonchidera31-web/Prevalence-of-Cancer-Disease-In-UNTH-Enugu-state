@@ -25,3 +25,13 @@ Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for 
 - To investigate the role of health insurance and payment methods in influencing treatment affordability.
 
 - To identify trends in cancer cases, survival rates, and treatment costs over time (2021–2026) in order to support data driven decision-making and healthcare planning.
+
+# TOOLS USED
+  1. GOOGLE CHROME
+  2. LINKEDIN
+  3. LAPTOP
+  4. GITHUB
+  5. ChatGPT
+  6. MS Excel
+  7. WriterP
+  8. Power BI
