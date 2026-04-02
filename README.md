@@ -13,6 +13,7 @@ Cancer care in Nigeria faces significant challenges, including late-stage diagno
 This project addresses the critical gap by analyzing patient-level cancer data alongside financial records to uncover patterns in disease progression, treatment outcomes, and cost implications. By examining factors such as cancer stage, treatment type, survival duration, and payment methods, the study aims to identify key drivers of mortality and financial strain. Ultimately, the goal is to support data-informed decisions that enhance patient care and promote more sustainable healthcare delivery in Nigeria.
 
 # TIPS TIPS TIPS
+💡
 
 Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for regular medical check-ups significantly reduces your risk to Cancer Disease.
 
@@ -48,3 +49,9 @@ Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for 
 <img width="496" height="329" alt="PC1" src="https://github.com/user-attachments/assets/674f59b9-a4a0-4e54-9f09-97b59fb0d17e" />
 
 <img width="493" height="335" alt="PC2" src="https://github.com/user-attachments/assets/08407799-810f-49b1-89c1-d3f418c3d2a8" />
+
+# AUTHOR
+
+## SOLOMON CHIDERA EZE
+
+Email:ezesolomonchidera@gmail.com
