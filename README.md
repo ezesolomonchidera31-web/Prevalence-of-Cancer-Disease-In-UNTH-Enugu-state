@@ -39,5 +39,12 @@ Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for 
   8. Power BI
 
 # VISUALIZATIONS
+<img width="926" height="367" alt="PC5" src="https://github.com/user-attachments/assets/9b3eb0fe-5abf-43aa-ad90-f088d7d0c40f" />
 
+<img width="939" height="386" alt="PC4" src="https://github.com/user-attachments/assets/2043a11f-776e-4fcc-86ab-ff79b2453560" />
 
+<img width="709" height="368" alt="PC3" src="https://github.com/user-attachments/assets/74c8ebce-2d6e-45a9-8427-6dcd00d936f2" />
+
+<img width="496" height="329" alt="PC1" src="https://github.com/user-attachments/assets/674f59b9-a4a0-4e54-9f09-97b59fb0d17e" />
+
+<img width="493" height="335" alt="PC2" src="https://github.com/user-attachments/assets/08407799-810f-49b1-89c1-d3f418c3d2a8" />
