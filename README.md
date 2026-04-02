@@ -7,8 +7,7 @@ The findings from this project are visualized through an interactive dashboard, 
 
 # PROBLEM STATEMENT
 
-<img width="1024" height="683" alt="image-24511-1024x683" src="https://github.com/user-attachments/assets/e7aa80f4-223f-428e-8625-da7871ff9484" />  
-
+<img width="1024" height="683" alt="image-24511-1024x683" src="https://github.com/user-attachments/assets/e7aa80f4-223f-428e-8625-da7871ff9484" /> 
 
 Cancer care in Nigeria faces significant challenges, including late-stage diagnosis, limited access to affordable treatment, and poor integration of clinical and financial data for decision-making. In tertiary healthcare institutions such as the University of Nigeria Teaching Hospital (UNTH), the absence of structured, data-driven insights makes it difficult to evaluate patient outcomes alongside the economic burden of care. As a result, healthcare providers and policymakers often lack the evidence needed to improve survival rates, optimize treatment strategies, and allocate resources efficiently.
 This project addresses the critical gap by analyzing patient-level cancer data alongside financial records to uncover patterns in disease progression, treatment outcomes, and cost implications. By examining factors such as cancer stage, treatment type, survival duration, and payment methods, the study aims to identify key drivers of mortality and financial strain. Ultimately, the goal is to support data-informed decisions that enhance patient care and promote more sustainable healthcare delivery in Nigeria.
