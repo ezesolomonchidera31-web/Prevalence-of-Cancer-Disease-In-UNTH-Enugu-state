@@ -15,3 +15,13 @@ This project addresses the critical gap by analyzing patient-level cancer data a
 Avoiding smoking, limiting alcohol intake, eating balanced diets, and going for regular medical check-ups significantly reduces your risk to Cancer Disease.
 
 # PROJECT OBJECTIVES
+
+- To analyze the prevalence and distribution of cancer types among patients.
+
+- To evaluate the impact of cancer stage at diagnosis on patient survival outcomes.
+
+- To assess the financial burden of cancer treatment on patients.
+
+- To investigate the role of health insurance and payment methods in influencing treatment affordability.
+
+- To identify trends in cancer cases, survival rates, and treatment costs over time (2021–2026) in order to support data driven decision-making and healthcare planning.
