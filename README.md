@@ -1,7 +1,9 @@
 # Prevalence-of-Cancer-Disease-In-UNTH-Enugu-state
 
+Cancer remains a growing public health concern in Nigeria, with increasing incidence rates, late stage diagnoses, and significant financial implications for patients and healthcare systems.
 
 ## PROJECT CONTENT
+
 [PROJECT PREVIEW](PROJECT-PREVIEW)
 
 [PROBLEM STATEMENT](PROBLEM-STATEMENT)
@@ -18,7 +20,7 @@
 
 ## PROJECT PREVIEW
 
-Cancer remains a growing public health concern in Nigeria, with increasing incidence rates, late-stage diagnoses, and significant financial implications for patients and healthcare systems. In tertiary institutions such as the University of Nigeria Teaching Hospital (UNTH), understanding the relationship between clinical outcomes and treatment costs is critical for improving patient care, resource allocation, and policy development.
+Cancer remains a growing public health concern in Nigeria, with increasing incidence rates, late stage diagnoses, and significant financial implications for patients and healthcare systems. In tertiary institutions such as the University of Nigeria Teaching Hospital (UNTH), understanding the relationship between clinical outcomes and treatment costs is critical for improving patient care, resource allocation, and policy development.
 This project presents a comprehensive healthcare data analysis of cancer patients treated between 2021 and 2026, focusing on both clinical and financial dimensions. Using a structured dataset comprising 1,000 patient records, the analysis explores key variables including cancer type, stage at diagnosis, treatment approach, survival outcomes, and associated healthcare costs. In addition, financial indicators such as treatment expenses, laboratory costs, drug costs, and insurance coverage were examined to assess the economic burden on patients.
 The objective of this project is to uncover actionable insights that can inform clinical decision-making and highlight disparities in healthcare access and affordability. By integrating patient level clinical data with financial metrics, this analysis provides a holistic view of cancer management within a Nigerian tertiary healthcare setting.
 The findings from this project are visualized through an interactive dashboard, enabling stakeholders to monitor trends in cancer prevalence, evaluate survival outcomes, and assess cost patterns over time. Ultimately, this project demonstrates the power of data analytics in supporting evidence based healthcare planning and improving patient outcomes in resource constrained environments.
