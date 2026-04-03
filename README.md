@@ -1,6 +1,6 @@
-# Prevalence-of-Cancer-Disease-In-UNTH-Enugu-state
+ Prevalence-of-Cancer-Disease-In-UNTH-Enugu-state
 
-Cancer remains a growing public health concern in Nigeria, with increasing incidence rates, late stage diagnoses, and significant financial implications for patients and healthcare systems.
+
 
 ## PROJECT CONTENT
 
